@@ -73,6 +73,11 @@ kanban-board-auth/
 cd ../client
 npm install
 
-## links
+## links 
+# use these user/passwords:   
+    { username: 'JollyGuru', password: 'password' },
+    { username: 'SunnyScribe', password: 'password' },
+    { username: 'RadiantComet', password: 'password' },
+
 - https://challenge-14-kanbanboard.onrender.com
 - https://github.com/Magsmags600/Challenge-14-KanBanBoard
