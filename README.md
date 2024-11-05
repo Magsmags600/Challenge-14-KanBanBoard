@@ -7,8 +7,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Links](#links)
+
 
 ## Overview
 This project is a web-based Kanban board application designed to offer task management with secure authentication. Users can create, view, and manage tasks within an organized board interface. The application implements secure user authentication using JSON Web Tokens (JWT) to ensure data protection and session management.
@@ -73,8 +73,8 @@ kanban-board-auth/
 cd ../client
 npm install
 
-## links 
-# use these user/passwords:   
+# links 
+## use these user/passwords:   
     { username: 'JollyGuru', password: 'password' },
     { username: 'SunnyScribe', password: 'password' },
     { username: 'RadiantComet', password: 'password' },
